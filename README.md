@@ -35,7 +35,7 @@ UI: XML layouts with Material Design
 
 Clone this repository
 
-git clone https://github.com/yourusername/My-Weather-App.git
+git clone https://github.com/Soulstrife2k69/My-Weather-App?tab=readme-ov-file
 
 
 Open the project in Android Studio
